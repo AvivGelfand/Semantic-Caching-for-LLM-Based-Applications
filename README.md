@@ -9,9 +9,7 @@
 6. [Results](#results)
 7. [Technologies Used](#technologies-used)
 8. [Future Work](#future-work)
-9. [Contact](#contact)
-10. [Acknowledgments](#acknowledgments)
-11. [License](#license)
+9. [Acknowledgments](#acknowledgments)
 
 ## Project Overview
 This project is a tiny step towards investigating the effectiveness of semantic caching in improving the performance and cost-efficiency of Large Language Model (LLM) based applications. By implementing and analyzing a semantic caching system, I aim to reduce response times and API call costs while maintaining high-quality outputs.
