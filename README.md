@@ -1,5 +1,3 @@
-# Semantic-Caching-for-LLM-Based-Applications
-
 # Semantic Caching for LLM-Based Applications
 
 ## Table of Contents
