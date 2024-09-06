@@ -2,14 +2,12 @@
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Data](#data)
-5. [Methodology](#methodology)
-6. [Results](#results)
-7. [Technologies Used](#technologies-used)
-8. [Future Work](#future-work)
-9. [Acknowledgments](#acknowledgments)
+2. [Data](#data)
+3. [Methodology](#methodology)
+4. [Results](#results)
+5. [Technologies Used](#technologies-used)
+6. [Future Work](#future-work)
+7. [Acknowledgments](#acknowledgments)
 
 ## Project Overview
 This project is a tiny step towards investigating the effectiveness of semantic caching in improving the performance and cost-efficiency of Large Language Model (LLM) based applications. By implementing and analyzing a semantic caching system, I aim to reduce response times and API call costs while maintaining high-quality outputs.
