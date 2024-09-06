@@ -52,7 +52,6 @@ Detailed statistical analyses, including Kolmogorov-Smirnov and T-tests, confirm
 
 ### Similarity Search and Caching
 - FAISS (Facebook AI Similarity Search): For efficient similarity search and clustering of dense vectors
-- Redis: For in-memory data structure store, used as an advanced caching layer
 
 ### API Integration
 - Groq API: For accessing large language models
@@ -60,7 +59,6 @@ Detailed statistical analyses, including Kolmogorov-Smirnov and T-tests, confirm
 
 ### Data Structures and Algorithms
 - OrderedDict: For implementing ordered cache with efficient item eviction
-- Heap Queue Algorithm (heapq): For priority queue operations in caching strategies
 
 ### Data Visualization and Analysis
 - Matplotlib: For creating static, animated, and interactive visualizations
@@ -70,7 +68,6 @@ Detailed statistical analyses, including Kolmogorov-Smirnov and T-tests, confirm
 ### Development Tools
 - Jupyter Notebooks: For interactive development and data exploration
 - Git: For version control
-- Docker: For containerization and ensuring reproducibility
 
 ### Statistical Analysis
 - SciPy: For scientific computing and statistical tests
@@ -88,4 +85,3 @@ Detailed statistical analyses, including Kolmogorov-Smirnov and T-tests, confirm
 
 ## Acknowledgments
 - [Yahlli Levy](https://www.linkedin.com/in/yahllilevy/) for providing the internship opportunity and resources
-- Adva Liberman and Lihi Nahum for their guidance and support
