@@ -79,5 +79,5 @@ Detailed statistical analyses, including Kolmogorov-Smirnov and T-tests, confirm
 3. Explore advanced embedding techniques for better semantic matching
 4. Conduct large-scale, real-world deployment tests
 
-## Acknowledgments
-- [Yahlli Levy](https://www.linkedin.com/in/yahllilevy/) for providing the internship opportunity and resources
+<img width="606" alt="Screenshot 2024-09-11 at 16 43 16" src="https://github.com/user-attachments/assets/8311e72c-d133-43da-b4f7-dd5ddbd99bca">
+
